@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Group.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Score.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

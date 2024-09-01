@@ -1,0 +1,710 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\managegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\printuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\printscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\printuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\printuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\managescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\managescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\managegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\printscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\manageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\manageuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\printgroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printgroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\printgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\printgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\printgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\managegroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managegroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\managescore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managescore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\managmentsystemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\managmentsystemtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\group.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\group.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\managmentsystemtemplate\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\dgvprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|c:\\users\\asus\\source\\repos\\managmentsystemtemplate\\managmentsystemtemplate\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193D9E4B-1654-44D8-AF18-8481CAA0216A}|ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj|solutionrelative:managmentsystemtemplate\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintUser.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintUser.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:51:01.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrintUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintUser.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintUser.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:41:45.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageUser.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAWwEkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:32:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Main.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAIA2wEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:20:15.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\RegisterForm.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA5wEEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:52:14.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageGroup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageGroup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageGroup.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowDcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:52:29.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrintUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintUser.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintUser.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:44:42.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageUser.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageUser.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:51:58.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrintScore.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintScore.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintScore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintScore.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintScore.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:48:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\UserClass.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\UserClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\UserClass.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\UserClass.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAewJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:21:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Login.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:18:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreClass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ScoreClass.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ScoreClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ScoreClass.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ScoreClass.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwHEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:48:47.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Main.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Main.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:43:09.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Login.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:59:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Group.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Group.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA5wB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:58:24.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Program.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:21:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManageScore.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageScore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageScore.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:07:38.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageScore.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageScore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageScore.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:05:22.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Splash.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Splash.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:52:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GroupClass.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\GroupClass.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\GroupClass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\GroupClass.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\GroupClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:12:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBconnect.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\DBconnect.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\DBconnect.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\DBconnect.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\DBconnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:12:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageGroup.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageGroup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageGroup.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:42:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Score.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Score.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Score.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Score.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA5wDUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:49:18.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageUser.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageUser.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageUser.Designer.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAuwHMBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:17:11.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrintScore.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintScore.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintScore.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintScore.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintScore.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:50:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Splash.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Splash.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Splash.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:41:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Splash.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Splash.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Splash.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Splash.Designer.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAApwHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:24:35.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Login.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Login.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA7wBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:10:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Main.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Main.Designer.cs",
+              "ViewState": "AQIAADsBAAAAAAAAAAAkwDwBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:20:52.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrintGroup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintGroup.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintGroup.Designer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwE4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:54:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PrintGroup.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintGroup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintGroup.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:32:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PrintGroup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\PrintGroup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\PrintGroup.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\PrintGroup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAtwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:36:39.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManageGroup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageGroup.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageGroup.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageGroup.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAIA0wLkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:27:24.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManageScore.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManageScore.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManageScore.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManageScore.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T00:07:44.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Score.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Score.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Score.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Score.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Score.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:40:30.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Group.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Group.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Group.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:58:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Group.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Group.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Group.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Group.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:56:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DGVPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\DGVPrinter.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\DGVPrinter.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\DGVPrinter.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\DGVPrinter.cs",
+              "ViewState": "AQIAAHAIAAAAAAAAAAAawH8IAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:26:49.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ManagmentSystemTemplate.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj",
+              "RelativeToolTip": "ManagmentSystemTemplate\\ManagmentSystemTemplate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T16:27:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.cs [Projekt]",
+              "RelativeToolTip": "ManagmentSystemTemplate\\RegisterForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:20:26.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:53:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:30:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ManagmentSystemTemplate.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ManagmentSystemTemplate\\ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs",
+              "RelativeToolTip": "ManagmentSystemTemplate\\obj\\Debug\\net8.0-windows\\ManagmentSystemTemplate.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:29:04.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
