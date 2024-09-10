@@ -29,3 +29,10 @@ The **Management System Template** offers the following key features across its 
 - Search for scores based on user and group
 - Print score information using DGVPrinter
 
+## Software Used
+
+During the development of **Management System Template**, the following software and libraries were utilized:
+
+- **MySql.Data**: A .NET data provider for MySQL, used to interact with MySQL databases within the application, enabling data retrieval, manipulation, and storage.
+- **Guna.UI2 WinForms**: A modern and customizable UI framework for Windows Forms that provides enhanced controls and design elements, improving the look and feel of the application.
+- **XAMPP**: An open-source cross-platform web server solution stack package, including Apache, MySQL, and PHP. It was used for local MySQL database management during development.
